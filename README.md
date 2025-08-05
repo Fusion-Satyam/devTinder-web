@@ -6,6 +6,11 @@
 - Installed Tailwind css
 - Installed Daisy UI
 - Added a Navbar component
+- Created a Navbar.jsx separate component
+- Installed React Router Dom
+- Created a routes component
+- Created a footer
+
 
 
 
